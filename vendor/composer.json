@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pragmarx/google2fa-laravel": "^1.0"
+    }
+}

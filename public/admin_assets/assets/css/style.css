@@ -1,0 +1,16 @@
+.half-border {
+    border-bottom: #9fa4b4 4px solid;
+    margin: 10px 0;
+    width: 60px;
+}
+
+/* turn it off completely */
+select>option:active, select>option:hover {
+  outline: none
+}
+
+/* make it red instead (with with same width and style) */
+select>option:active, select>option:hover {
+  /*outline-color: red*/
+  background-color: red; 
+}
