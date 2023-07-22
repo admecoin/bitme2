@@ -6,7 +6,7 @@
     "type": "project",
     "require": {
         "php": "^7.2.17",
-        "laravel/framework": "5.8",
+        "laravel/framework": "5.5.50",
         "piwik/device-detector": "^3.11",
         "torann/geoip": "^1.0",
         "snowfire/beautymail": "dev-master",
